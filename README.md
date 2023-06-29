@@ -1,4 +1,6 @@
-<h2>👋 HI THERE</h2>
+<h2 align="middle">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20happy%20to%20see%20you&fontSize=90&animation=fadeIn" />
+</h2>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <h3 align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
